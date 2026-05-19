@@ -1,0 +1,14 @@
+{
+  "roleSlug": "principal-software-engineer",
+  "roleTitle": "Principal Software Engineer",
+  "stack": "C#, Vue.js",
+  "domain": "",
+  "featureDescription": "AI Scope Brief Generator\n\nExtend an existing Stratus work-order screen with an AI-assisted scope summarizer that reads recent job notes, fabrication constraints, and linked drawings metadata, then proposes a structured task brief for the field team. This tests brownfield navigation, C# API work, Vue UI changes, and agentic guardrails because the candidate must wire retrieval, structured output, and a human approval step into an existing workflow.",
+  "timeBoxMinutes": 60,
+  "projectMode": "A",
+  "analysisMode": "ai-assisted",
+  "rubricMode": "default",
+  "outputDir": "./interviews/principal-software-engineer",
+  "jdPath": "jd.md",
+  "jdInfluencesProject": true
+}
