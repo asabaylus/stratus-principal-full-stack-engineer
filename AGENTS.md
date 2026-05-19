@@ -9,6 +9,8 @@ Cursor, Aider, etc.) that read the cross-tool `AGENTS.md` convention
 pick up the same operating instructions. It is shipped by the interview
 kit, not authored by the project generator — proctors own this content.
 
+The candidate is welcome to modify this file. 
+
 ## Your role
 
 - The candidate is the engineer. You are the AI collaborator. Follow
