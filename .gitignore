@@ -1,0 +1,8 @@
+node_modules/
+interview.log
+terminal.cast
+.interview-state/
+bin/
+obj/
+*.user
+.DS_Store
