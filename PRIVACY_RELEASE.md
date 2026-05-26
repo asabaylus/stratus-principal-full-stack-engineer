@@ -11,8 +11,7 @@ the role described in `INTERVIEW_RULES.md` of this repository.
 - **AI agent log (`interview.log`)** — a JSONL log of prompts I sent to
   my AI coding agent and the tool calls the agent made.
 - **Git history** — all commits I make during the session.
-- **(Optional, only if I am informed at the start of the session) Audio
-  transcript** — from the video conference platform's transcription
+- **Audio transcript** — from the video conference platform's transcription
   service.
 
 ## Our privacy commitment to you
